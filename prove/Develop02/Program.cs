@@ -61,7 +61,7 @@ class Program
             }
             else if (choice == "5")
             {
-                // Exit the program
+                // quiting the program
                 break;
             }
             else
