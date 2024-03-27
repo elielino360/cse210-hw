@@ -30,19 +30,24 @@ public class ListingActivity : Activity
          while (true)
         {
             string input = Console.ReadLine(); 
+           
 
-            if (input.ToLower() == "done");
-                break;
+            if (input.ToLower() == "done")
+            
 
             items.Add(input); 
             
             _count++;
+
+            Console.WriteLine($"You listed {_count} items.");
+
         }
+
         
 
 
        
-        Console.WriteLine($"You listed {_count} items.");
+        
     }
 
     public string GetRandomPrompt()
