@@ -1,0 +1,15 @@
+GoalTracker.ChecklistGoal
+talking to the moon 
+moon talk
+1000
+False
+0
+2
+0
+344
+GoalTracker.EternalGoal
+taoshting to the workl
+toasting
+100
+False
+0
