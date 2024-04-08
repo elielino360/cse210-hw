@@ -6,5 +6,6 @@ class PromptGenerator
     public PromptGenerator()
     {
         Prompts = new List<string>();
+
     }
 }

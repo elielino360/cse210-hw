@@ -76,7 +76,7 @@ Enter your choice: ");
                     _goals.Add(new ChecklistGoal());
                     break;
                 default:
-                    Console.WriteLine("Invalid choice. Goal creation cancelled.");
+                    Console.WriteLine("Invalid choice.");
                     break;
             }
         }
